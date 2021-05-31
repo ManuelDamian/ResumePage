@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ManuelDamian/ResumePage/static/css/main.ea0444ce.chunk.css",
-    "main.js": "/ManuelDamian/ResumePage/static/js/main.49f48c15.chunk.js",
-    "main.js.map": "/ManuelDamian/ResumePage/static/js/main.49f48c15.chunk.js.map",
+    "main.js": "/ManuelDamian/ResumePage/static/js/main.3673012c.chunk.js",
+    "main.js.map": "/ManuelDamian/ResumePage/static/js/main.3673012c.chunk.js.map",
     "runtime-main.js": "/ManuelDamian/ResumePage/static/js/runtime-main.a285fa38.js",
     "runtime-main.js.map": "/ManuelDamian/ResumePage/static/js/runtime-main.a285fa38.js.map",
     "static/js/2.9a791f53.chunk.js": "/ManuelDamian/ResumePage/static/js/2.9a791f53.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a285fa38.js",
     "static/js/2.9a791f53.chunk.js",
     "static/css/main.ea0444ce.chunk.css",
-    "static/js/main.49f48c15.chunk.js"
+    "static/js/main.3673012c.chunk.js"
   ]
 }
