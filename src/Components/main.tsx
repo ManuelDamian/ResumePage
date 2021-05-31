@@ -1,10 +1,11 @@
 import React from 'react'
-import {  Switch , Route} from 'react-router-dom'
+import {  Switch , Route, Redirect} from 'react-router-dom'
 import Principal from "./MainPage"
 
 const Main = () => (
     <Switch>
-        <Route exact path="/" component={Principal} />
+        <Route path="/" component={Principal}/>
+        <Redirect to="/"/>
     </Switch>
 )
 
