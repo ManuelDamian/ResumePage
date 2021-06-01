@@ -143,7 +143,7 @@ class Principal extends Component {
                                     <FontAwesomeIcon icon={faPhoneAlt} style={{fontSize:'35px', color: "#7fc15e"}} />
                                 </ListItemIcon>
                                 <ListItemText>
-                                    <h3>312-105-3821</h3>
+                                    <h3>312-134-5150</h3>
                                 </ListItemText>
                             </ListItem>
                             <ListItem>
